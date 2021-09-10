@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amarbaranwal
 - 👀 I’m interested in UI designs
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Data Structures, Flutter and Improving my problem solving skills
 - 💞️ I am a MCA student
-- 📫 How to reach me - amar.aiti49@gmail.com
+- 📫 Reach me at - amar.aiti49@gmail.com
 - do
 -  { 
 -    🍜 Eat -> 🖥️ Code -> 😴 Sleep -> 🔁 Repeat
