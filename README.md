@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amarbaranwal
-- 👀 I’m interested in Mobile Applications and Coding
+- 👀 I’m interested in Mobile Applications and Development
 - 🌱 I’m currently learning Data Structures, Flutter and Improving my problem solving skills
 - 💞️ I am a MCA student
 - 📫 Reach me at - amar.aiti49@gmail.com
